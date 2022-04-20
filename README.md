@@ -1,2 +1,3 @@
 # SF_CS_classes_Bednyakov
-Мой первый репозиторий на GitHub
+## группа CDEV_17
+***Мой первый репозиторий на GitHub***
