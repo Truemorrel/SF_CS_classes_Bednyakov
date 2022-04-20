@@ -1,5 +1,13 @@
-# SF_CS_classes_Bednyakov
-## группа CDEV-17
-**Мой первый репозиторий на** ***GitHub***
+# Мой первый репозиторий
 
-[SF_CS_classes_Bednyakov](https://github.com/Truemorrel/SF_CS_classes_Bednyakov.git)
+Данный репозиторий был создан в рамках [профессии C#-разработчик] (https://skillfactory.ru/c-sharp-razrabotchik)
+
+## Текущий модуль
+В данный момент мы изучаем модуль под названием **Git**.
+
+Мы уже знаем следующие вещи:
+* Что такое Система Контроля Версий и какие типы систем бывают
+* Что такое Git
+* Что такое GitHub
+* Что такое Markdown
+* Что такое Commit 
